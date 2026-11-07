@@ -85,7 +85,7 @@ form.addEventListener("submit", (evento) => {
 
 // ===== 3. CÓDIGO QR =====
 // Dirección del proyecto publicado en GitHub Pages (el QR apunta a ella)
-const URL_GITHUB = "https://senavisitas-blip.github.io/proyecto-sena/";
+const URL_GITHUB = "https://alguncamilo.github.io/proyecto-sena/";
 
 // Crea el QR: tipo 0 = tamaño automático, "H" = máxima corrección de errores
 const qr = qrcode(0, "H");
